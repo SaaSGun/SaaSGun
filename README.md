@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaaSGun 
-- 👀 I’m interested in leveraging data to uncover hidden truths
+- 👀 I’m interested in leveraging raw data to get useful information (and sometimes fancy multi-dimensional plots)
 - 🌱 I’m currently learning Python and Java
 
 
